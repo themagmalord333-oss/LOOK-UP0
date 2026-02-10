@@ -33,7 +33,7 @@ API_ID = 37314366
 API_HASH = "bd4c934697e7e91942ac911a5a287b46"
 
 # SESSION STRING
-SESSION_STRING = "BQI5Xz4ATohe7TzEthBJV163cxqpZqg_Za3jR19G_o9TwJ3_uYacTCM6VUGOTvcLGEeM2RtMUuacEfZ7GteCqpAbvkznZ-VPVbYm93KIpWl0m25xpAmMJgfP6v-B4UJeswwS9F8vTyRB2FfGkXfk9oGcxo_RQy1MdABUnn6QUsf91rKvmmwXgTiqqc8zCgm-8amZdmt0eVJh90IN9KX_nuNxiZAYR5fmp057aDBYarvKeNDctusJWBXF50Xr6BIkZDe3PBkLe33BQLwYEeeGesxrxkdom5eBuC3NESlDu0AExdF1Sy270Q0DS9qdGzLYmJVqscGg-GwjLjACCCFOaskdcJH1zAAAAAGc59H6AA"
+SESSION_STRING = "BQI5Xz4ArorJ5xP3CT4dey9n5mj5pjL9EzUH7Xva3UShZC_k4TbWvT5vP-dNEmLbaICIdRRl-1-M65P_Bu8iT8ziD9OExoTsRLTY_uIvxLm7su_B8tG311mhYB3OVUK7dOuVMWyR23Iv-ctZxrazN-eXNMvUJzBrz17AfYN_2pLuV3IdXdB2llbKcxijofj_gcy3PHbOR0B9p400gOH7R9H3UZYvrkPUZ1BcYVTu0O2xmDEUSGsbK59TQ7Uph4CBOJfTttczYubHmbffasAFtc7zP6t_88ap84lgreuchv3_XbQ17IXknQ5ERbCCQf-vZUgrfT5lgU7yw6cd4efhYtKreeQ_ZgAAAAHtumW-AA"
 
 TARGET_BOT = "Random_insight69_bot"
 NEW_FOOTER = "⚡ Designed & Powered by @MAGMAxRICH"
@@ -42,8 +42,8 @@ NEW_FOOTER = "⚡ Designed & Powered by @MAGMAxRICH"
 ALLOWED_GROUPS = [-1003387459132] 
 
 FSUB_CONFIG = [
-    {"chat_id": -1003387459132, "link": "https://t.me/+wZ9rDQC5fkYxOWJh"},
-    {"chat_id": "Anysnapsupport", "link": "https://t.me/Anysnapsupport"}
+    {_______},
+    {_______}
 ]
 
 app = Client("anysnap_secure_bot", api_id=API_ID, api_hash=API_HASH, session_string=SESSION_STRING)
